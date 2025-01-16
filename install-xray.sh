@@ -10,7 +10,7 @@ RED='\033[0;31m'
 NC='\033[0m'
 
 # URL file daftar IP yang diizinkan (ganti dengan repo Anda)
-ALLOWED_IPS_URL="https://raw.githubusercontent.com//Cobaa73/main/allowed_ips.txt"
+ALLOWED_IPS_URL="https://raw.githubusercontent.com//Cobaa73/ay-vpn-installer/refs/heads/main/allowed_ips.txt" 
 
 # Cek apakah IP server terdaftar
 echo -e "${GREEN}Memeriksa IP server...${NC}"
